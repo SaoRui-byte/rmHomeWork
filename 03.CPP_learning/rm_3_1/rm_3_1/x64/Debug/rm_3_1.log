@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\16390\Desktop\rm作业\03.CPP_learning\rm_3_1\main.cpp(170,1): warning C4715: “CompareString”: 不是所有的控件路径都返回值
+  rm_3_1.vcxproj -> C:\Users\16390\Desktop\rm作业\03.CPP_learning\rm_3_1\x64\Debug\rm_3_1.exe
